@@ -1,0 +1,25 @@
+body{
+    background: #293462;
+    box-sizing: border-box;
+  }
+  .a{
+    width: 200px;
+    height: 200px;
+    background: #FFF1C1;
+    margin: -100 auto;
+    border-radius:100000px;
+    overflow: hideen;
+  }
+  .b{
+    width: 120px;
+    height: 140px;
+    background: #FE5F55;
+    position:relative;
+    left:167px;
+    top:130px;
+    transform:rotate(45deg);
+  } 
+      
+
+
+  
